@@ -19,8 +19,8 @@ The repository is organized into folders for each day:
 2. **[Menofia University ICPC Sheets](https://vjudge.net/contest/677780#google_vignette)**  
 
 ## Tools & Technologies  
-- **Programming Language:** Java  
-- Other tools: Any required IDEs or compilers.  
+- **Programming Language:** C++
+- Other tools: Codeforces and vjudge.  
 
 ## Tracking Progress  
 | Day   | Problem(s) Solved | Link to Code                   | Notes              |  
