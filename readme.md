@@ -25,7 +25,7 @@ The repository is organized into folders for each day:
 ## Tracking Progress  
 | Day   | Problem(s) Solved | Link to Code                   | Notes              |  
 |-------|--------------------|-------------------------------|--------------------|  
-| Day 1 | Example Problem    | [Code](Day01/HelloWorld.java) | Initial Setup      |  
+| Day 1 | A,B,C,D ICPC First sheet    | [Code](https://github.com/Soofa2/100-Days-of-Problem-Solving/tree/main/DayOne) | Initial Setup      |  
 | Day 2 | Problem Name       | [Code](Day02/ProblemName.java)| Another example... |  
 
 ## How to Contribute  
