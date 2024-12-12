@@ -1,0 +1,28 @@
+# Ignore Visual Studio specific files
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+
+# Ignore build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore C++ compiler generated files
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# Ignore Visual Studio temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore other files
+_Dist/
+_Debug/
