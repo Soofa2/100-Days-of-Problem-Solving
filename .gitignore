@@ -26,3 +26,7 @@ x86/
 # Ignore other files
 _Dist/
 _Debug/
+
+.vs/
+*.suo
+*.db
